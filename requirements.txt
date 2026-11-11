@@ -1,0 +1,7 @@
+# Python dependencies for River Ganga Pollution Analytics
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+plotly
